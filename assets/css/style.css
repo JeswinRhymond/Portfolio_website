@@ -1016,7 +1016,7 @@ section .container {
   font-size: 20px;
   color: rgba(255, 255, 255, 0.5);
   font-weight: 700;
-  margin: 10px 0 8px 68px;
+  margin: 10px 0 8px 0;
 }
 
 .contact .info-box p {
@@ -1024,7 +1024,7 @@ section .container {
   color: #fff;
   line-height: 24px;
   font-size: 14px;
-  margin: 0 0 0 68px;
+  margin: 0;
 }
 
 .contact .info-box .social-links {
